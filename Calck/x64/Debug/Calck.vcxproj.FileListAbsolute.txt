@@ -1,0 +1,3 @@
+C:\Users\geha4\source\repos\Calck\Calck\x64\Debug\Calck.vcxproj.AssemblyReference.cache
+C:\Users\geha4\source\repos\Calck\Calck\x64\Debug\Calck.Calck.resources
+C:\Users\geha4\source\repos\Calck\Calck\x64\Debug\Calck.vcxproj.GenerateResource.cache

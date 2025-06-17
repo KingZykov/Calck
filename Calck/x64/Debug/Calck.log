@@ -1,0 +1,6 @@
+﻿  Calck.cpp
+C:\Users\geha4\source\repos\Calck\Calck\Calck.h(418,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\geha4\source\repos\Calck\Calck\Calck.h(448,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\geha4\source\repos\Calck\Calck\Calck.h(470,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Calck.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calck.vcxproj -> C:\Users\geha4\source\repos\Calck\x64\Debug\Calck.exe
